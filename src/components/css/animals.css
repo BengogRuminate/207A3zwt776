@@ -1,0 +1,26 @@
+.imgContainer{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin-left: 10%;
+    margin-right:10%;
+    gap:5%;
+    row-gap: 30px;
+    padding:5%;
+}
+
+.imgContained{
+    width:30%;
+}
+
+.imgContained > img{
+    aspect-ratio: 1 / 1;
+}
+
+.animalHeader{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0%;
+    font-size:60px;
+}

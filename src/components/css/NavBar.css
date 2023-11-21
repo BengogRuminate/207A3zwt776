@@ -1,0 +1,22 @@
+.menuitem{
+    display: flex;
+    background-color: rgba(90, 75, 75, 0.5);
+    font-size: 60px;
+    justify-content: space-around;
+    text-decoration: none;
+    padding-bottom:16px;
+    margin-top:-8px;
+    width: 100%;
+}
+
+.menuitem > a {
+    text-decoration: underline rgba(0,0,0,0);
+    color: black;
+    transition: 500ms;
+    font-weight: bold;
+}
+
+.menuitem > a:hover{
+    text-decoration: underline black;
+}
+

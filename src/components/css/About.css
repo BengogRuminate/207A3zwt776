@@ -1,0 +1,55 @@
+.descriptionContainer{
+    background: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap:15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+
+.compDesc1{
+    flex-grow: 3;
+    font-size: 300%;
+    width:35%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.compDesc2{
+    width:35%;
+}
+
+.compDesc3{
+    width:35%;
+}
+
+.compDesc4{
+    flex-grow: 3;
+    font-size: 300%;
+    width:35%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.AFContainer{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:3%;
+    margin-bottom:3%;
+    padding-bottom: 2%;
+}
+
+#motto1{
+    margin-left:0%;
+    font-size: 40px;
+    padding-bottom: 5%;
+    font-style: italic;
+}

@@ -1,0 +1,37 @@
+#contactnumber,
+#name,
+#email,
+#subject,
+label{
+    height: 60px;
+    width: 60%;
+    margin-left: 20px;
+    font-size:40px;
+}
+
+label{
+    font-size: 45px;
+}
+
+h2{
+    margin-left: 5px;
+}
+
+#message{
+    height:120px;
+    width:60%;
+    margin-left: 20px;
+    font-size: 30px;
+    font:arial;
+}
+
+#submitbutton{
+    height:60px;
+    font-size: 30px;
+    width:150px;
+    margin-top:2%;
+}
+
+.contact-form{
+    padding-left:2%;
+}

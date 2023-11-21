@@ -1,0 +1,25 @@
+.infobar{
+    background-color: black;
+    border-top: 2px;
+    border-color: black;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.infobar > div {
+    font-size: 30px;
+    align-items: center;
+    padding:3px;
+    color:white;
+}
+
+.infobar > div > button{
+    font-size: 30px;
+    background: rgb(246, 68, 68);
+    border-color: black;
+    width: 100%;
+}
+
+.infobar > div > button:hover{
+    background-color: rgb(250, 173, 173);
+}

@@ -1,0 +1,24 @@
+.bodyContainer{
+    width:80%;
+    margin-left: 10%;
+}
+
+h2 {
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.compDesc{
+    margin-left: 10%;
+    width:80%;
+    text-align:justify;
+    font-size: 20px;
+}
+
+#welcomeMsg{
+    background:white;
+    font-size: 50px;
+    margin: 10%;
+    margin-top:5%;
+    margin-bottom:0%;
+}
